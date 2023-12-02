@@ -1,4 +1,4 @@
-# 슬기로운 깃생활🚀
+
 <div align= "center">
     <img src="https://capsule-render.vercel.app/api?type=waving&color=0:18ec9b,100:efcccc&height=180&text=Welcome%20to%20jung%20GitHub&animation=fadeIn&fontColor=ffffff&fontSize=50" />
     </div>
