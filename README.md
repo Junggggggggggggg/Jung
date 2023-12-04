@@ -4,7 +4,7 @@
     </div>
     <div style="text-align: left;"> 
     <h2 style="border-bottom: 1px solid #d8dee4; color: #282d33;"> 안녕하세요 운동하는 개발자 정슬기입니다. </h2>  
-    <div style="font-weight: 700; font-size: 15px; text-align: left; color: #282d33;"> <li> 인천대학교 체육학과 졸업</li><li> </li><li> KH 정보교육원 (디지털컨버전스) 공공데이터 융합 웹 애플리케이션 개발자 양성과정</li><li> KACEP (대한운동학회 정회원)</li><li> 수상인명구조요원(갱신)</li><li> MTPA 수료 (기능해부학, 기능성웨이트 트레이닝, 체형분석)</li><li> 컴퓨터활용능력 1급 </li><li> 응급처치, 심폐소생술 교육 수료</li><li> CES KOREA Personal Trainer 과정 수료</li><li> BLACKROLL Trainer (근막이완) 수료</li><li> Heart Rate Trainer 수료</li><li> 척추측만 특화운동 세미나 수료</li><li> 플로어볼 지도자 3급</li><li> 수상인명구조요원</li><li> 레크레이션지도자</li><li> 생활스포츠지도사 (보디빌딩)</li></li></li> </div> 
+    <div style="font-weight: 700; font-size: 15px; text-align: left; color: #282d33;"> <li> 인천대학교 체육학과 졸업</li><li> KH 정보교육원 (디지털컨버전스) 공공데이터 융합 웹 애플리케이션 개발자 양성과정</li><li> KACEP (대한운동학회 정회원)</li><li> 수상인명구조요원(갱신)</li><li> MTPA 수료 (기능해부학, 기능성웨이트 트레이닝, 체형분석)</li><li> 컴퓨터활용능력 1급 </li><li> 응급처치, 심폐소생술 교육 수료</li><li> CES KOREA Personal Trainer 과정 수료</li><li> BLACKROLL Trainer (근막이완) 수료</li><li> Heart Rate Trainer 수료</li><li> 척추측만 특화운동 세미나 수료</li><li> 플로어볼 지도자 3급</li><li> 수상인명구조요원</li><li> 레크레이션지도자</li><li> 생활스포츠지도사 (보디빌딩)</li></li></li> </div> 
     </div>
     <div style="text-align: left;">
     <h2 style="border-bottom: 1px solid #d8dee4; color: #282d33;"> 🛠️ Tech Stacks </h2> <br> 
