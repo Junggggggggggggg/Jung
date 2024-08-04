@@ -4,7 +4,8 @@
     </div>
     <div style="text-align: left;"> 
     <h2 style="border-bottom: 1px solid #d8dee4; color: #282d33;"> 안녕하세요 운동하는 개발자 정슬기입니다. </h2>  
-    <div style="font-weight: 700; font-size: 15px; text-align: left; color: #282d33;"> <li> 인천대학교 체육학과 졸업</li><li> KH 정보교육원 (디지털컨버전스) 공공데이터 융합 웹 애플리케이션 개발자 양성과정</li><li> KACEP (대한운동학회 정회원)</li><li> 컴퓨터활용능력 1급 </li><li> 수상인명구조요원</li><li> 생활스포츠지도사 (보디빌딩)</li> </div> 
+    <div style="font-weight: 700; font-size: 15px; text-align: left; color: #282d33;"> <li> 인천대학교 체육학과 졸업</li><li> KH 정보교육원 (디지털컨버전스) 공공데이터 융합 웹 애플리케이션 개발자 양성과정</li>
+        <li>정보처리기사 필기합격<li/></li></LI><li>SQLD<li/><li> KACEP (대한운동학회 정회원)</li><li> 컴퓨터활용능력 1급 </li><li> 수상인명구조요원</li><li> 생활스포츠지도사 (보디빌딩)</li> </div> 
     </div>
     <div style="text-align: left;">
     <h2 style="border-bottom: 1px solid #d8dee4; color: #282d33;"> 🛠️ Tech Stacks </h2> <br> 
@@ -17,7 +18,7 @@
           <img src="https://img.shields.io/badge/Javascript-F7DF1E?style=for-the-badge&logo=Javascript&logoColor=white">
           <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=MySQL&logoColor=white">
           <img src="https://img.shields.io/badge/Oracle-F80000?style=for-the-badge&logo=Oracle&logoColor=white">
-          <img src="https://img.shields.io/badge/Notion-000000?style=for-the-badge&logo=Notion&logoColor=white">
+          <br/><img src="https://img.shields.io/badge/Notion-000000?style=for-the-badge&logo=Notion&logoColor=white">
           <img src="https://img.shields.io/badge/Spring-6DB33F?style=for-the-badge&logo=Spring&logoColor=white">
           <img src="https://img.shields.io/badge/Slack-4A154B?style=for-the-badge&logo=Slack&logoColor=white">
           <img src="https://img.shields.io/badge/Spring Boot-6DB33F?style=for-the-badge&logo=Spring Boot&logoColor=white">
